@@ -52,10 +52,10 @@ Return Rate % = DIVIDE(COUNTROWS(Returns), COUNTROWS(Orders))
 
 ## 📌 Tools Used
 
-- Microsoft Excel (Data Source)
-- Power BI (Visualization & Dashboard)
-- Power Query (Data Cleaning)
-- DAX (Calculated Measures)
+- Microsoft Excel (Data Source & Initial KPI Calculations)
+- Power BI (Visualization & KPI Analysis Dashboard)
+- Power Query (Data Cleaning & Transformation)
+- DAX (Advanced Calculated Measures)
 
 ---
 
