@@ -61,4 +61,4 @@ Return Rate % = DIVIDE(COUNTROWS(Returns), COUNTROWS(Orders))
 
 ## 💡 Key Insight
 
-The business shows strong revenue performance but suffers from a relatively high return rate (22%), which directly impacts net profitability. Technology is the dominant category driving revenue, indicating a concentration risk.
+The business shows strong revenue performance, but profitability is impacted by a high return rate (22%). Technology is the primary revenue driver, indicating a dependency that may pose concentration risk. Additionally, profit distribution across managers is uneven, with performance concentrated among a few individuals.
